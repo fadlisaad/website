@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Apadmedia</title>
+    <link href="https://fadlisaad.github.io/website/feed.xml" rel="self" />
+    <link href="https://fadlisaad.github.io/website" />
+    <updated>2020-02-08T14:43:41+08:00</updated>
+    <author>
+        <name>Fadli Saad</name>
+    </author>
+    <id>https://fadlisaad.github.io/website</id>
+
+    <entry>
+        <title>This is a test</title>
+        <author>
+            <name>Fadli Saad</name>
+        </author>
+        <link href="https://fadlisaad.github.io/website/this-is-a-test.html"/>
+        <id>https://fadlisaad.github.io/website/this-is-a-test.html</id>
+
+        <updated>2020-02-08T14:43:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Testing
+            ]]>
+        </content>
+    </entry>
+</feed>
